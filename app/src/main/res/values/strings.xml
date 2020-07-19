@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMWithStorage</string>
+    <string name="empty_list">Empty List</string>
+    <string name="an_error_occurred">Error Found</string>
+</resources>
